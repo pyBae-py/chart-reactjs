@@ -1,0 +1,47 @@
+.line-chart-wrapper {
+  width: 60%;
+  margin-left: 18%;
+  padding-bottom: 10%;
+  background-color: white;
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
+  box-shadow: 1px 2px 20px 5px rgba(0, 0, 0, 0.75);
+}
+
+.pie-chart-wrapper {
+  width: 60%;
+  margin-left: 20%;
+}
+
+#line-pagination {
+  margin-left: 78%;
+  padding-top: 2%;
+}
+.list-group {
+  font-size: 6px;
+}
+
+.pagination-wrapper {
+  margin-left: 400px;
+}
+
+body {
+  background-color: lightpink;
+}
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  margin-left: inherit;
+}
+.nav-tabs .nav-link {
+  margin-left: 20%;
+  border: none;
+  height: 40px;
+  width: 165px;
+}
+.nav-tabs {
+  border: none;
+  margin-left: 18.1%;
+  margin-top: 30px;
+}
