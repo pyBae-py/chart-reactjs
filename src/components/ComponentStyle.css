@@ -45,3 +45,22 @@
 #title {
   margin-right: 0.5%;
 }
+
+.page-item:first-child .page-link {
+  border-top-left-radius: 1.25rem;
+  border-bottom-left-radius: 1.25rem;
+  color: white;
+  background-color: blue;
+}
+.page-item:last-child .page-link {
+  border-top-right-radius: 1.25rem;
+  border-bottom-right-radius: 1.25rem;
+  color: white;
+  background-color: blue;
+}
+
+.page-link {
+  color: blue;
+  background-color: lightgrey;
+  font-size: 10px;
+}
